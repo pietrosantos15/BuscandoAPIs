@@ -11,7 +11,7 @@
 | ReactMovieDB | [GitHub](https://github.com/hillc255/ReactMovieDB) | Site de filmes que busca e exibe metadados  de filmes. | React / Node.js | TMDB API (The Movie Database) |
 | GitHub Finder | [GitHub](https://github.com/julianachagas/github-finder) | Busca usuários do GitHub e exibe perfil, repositórios e seguidores. | React / TypeScript | GitHub REST API |
 | React NASA API | [GitHub](https://github.com/Steveeeie/react-nasa-api) | Permite pesquisar no acervo de mídia da NASA e exibir imagens, áudios e vídeos. | React | NASA API |
-| React Crypto App | [GitHub](https://github.com/danielc92/react-crypto-app) | Painel com cotações, estatísticas e dados de mercado de diversas criptomoedas. | React (Ant Design) | CoinGecko API |
+| React Crypto App | [GitHub](https://github.com/danielc92/react-crypto-app) | Painel com cotações, estatísticas e dados de mercado de diversas criptomoedas. | React | CoinGecko API |
 | Random Quote Generator | [GitHub](https://github.com/aromalanil/Random-Quote-Generator) | Exibe frases aleatórias de pessoas famosas a cada clique. | React | API de citações (frases aleatórias) |
 | Countries | [GitHub](https://github.com/munyite001/Countries) | Exibe informações de todos os países com busca e filtro por região. | React | REST Countries API |
 | Recipe App | [GitHub](https://github.com/ankitjhagithub21/recipe-app) | Busca receitas culinárias e permite salvar favoritas localmente. | React | TheMealDB API |
