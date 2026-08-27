@@ -7,7 +7,7 @@
 | Projeto | Repositório no GitHub | O que o projeto faz | Framework / Tecnologia | API Utilizada |
 |---|---|---|---|---|
 | Poke-Dex | [GitHub](https://github.com/FidalMathew/Poke-Dex) | Permite buscar Pokémon pelo nome e exibe informações e imagens de cada um. | React | PokeAPI |
-| Spotify React App | [GitHub](https://github.com/zoezed/spotify-react-app) | Autentica a conta do usuário no Spotify e exibe a música tocando no momento. | React / Node.js (servidor de autenticação) | Spotify Web API |
+| Spotify React App | [GitHub](https://github.com/zoezed/spotify-react-app) | Autentica a conta do usuário no Spotify e exibe a música tocando no momento. | React / Node.js  | Spotify Web API |
 | ReactMovieDB | [GitHub](https://github.com/hillc255/ReactMovieDB) | Site de filmes que busca e exibe metadados  de filmes. | React / Node.js | TMDB API (The Movie Database) |
 | GitHub Finder | [GitHub](https://github.com/julianachagas/github-finder) | Busca usuários do GitHub e exibe perfil, repositórios e seguidores. | React / TypeScript | GitHub REST API |
 | React NASA API | [GitHub](https://github.com/Steveeeie/react-nasa-api) | Permite pesquisar no acervo de mídia da NASA e exibir imagens, áudios e vídeos. | React | NASA API |
