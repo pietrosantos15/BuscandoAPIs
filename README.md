@@ -14,5 +14,5 @@
 | React Crypto App | [GitHub](https://github.com/danielc92/react-crypto-app) | Painel com cotações, estatísticas e dados de mercado de diversas criptomoedas. | React | CoinGecko API |
 | Random Quote Generator | [GitHub](https://github.com/aromalanil/Random-Quote-Generator) | Exibe frases aleatórias de pessoas famosas a cada clique. | React | API de citações (frases aleatórias) |
 | Rest Countries API | [GitHub](https://github.com/sahilatahar/Rest-countries-api) | Exibe todos os países com busca, filtro por região, detalhes de cada país e alternância de tema claro/escuro. | React / Vite | REST Countries API |
-| Recipe App | [GitHub](https://github.com/ankitjhagithub21/recipe-app) | Busca receitas culinárias e permite salvar favoritas localmente. | React / Redux / Tailwind CSS | TheMealDB API |
+| Recipe App | [GitHub](https://github.com/ankitjhagithub21/recipe-app) | Busca receitas culinárias e permite salvar favoritas localmente. | React | TheMealDB API |
 | Headlines | [GitHub](https://github.com/codejockie/headlines) | Feed de notícias que exibe manchetes atualizadas de diversas fontes. | React | News API
